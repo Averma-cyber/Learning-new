@@ -1,2 +1,4 @@
 # Learning-new
-This is my first Learning repo
+Author : Abhishek Verma
+
+This is my first Learning repo- trying the GIT and GITHUB 
